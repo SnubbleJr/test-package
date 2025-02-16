@@ -13,7 +13,7 @@
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
-    "githubRepos":[
+    "githubRepos":[ 
         "SnubbleJr/VRChat-Build-Size-Viewer"
     ]
 }
