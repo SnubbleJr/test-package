@@ -4,16 +4,16 @@
     "url":"https://SnubbleJr.github.io/test-package/index.json",
     "author":{
         "email":"SnubbleJr@gmail.com",
-        "name":"VRChat",
+        "name":"SnubbleJr",
         "url":"https://hello.vrchat.com"
     },
     "description":"Example listing of VRChat packages",
     "infoLink":{
-        "url":"https://github.io/SnubbleJr/test-package/",
+        "url":"https://github.com/SnubbleJr/test-package/",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "VRChat-Build-Size-Viewer"
+        "SnubbleJr/VRChat-Build-Size-Viewer"
     ]
 }
